@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning **Data structure and algorithm using C++ programming language .**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prateek-kumar-singh-218b3224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/prateek-kumar-singh-218b3224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+- 👨‍💻 All of my projects are available at https://linkedin.com/in/prateek-kumar-singh-218b3224a
 - 📫 How to reach me **spratik869@gmail.com**
 
  
